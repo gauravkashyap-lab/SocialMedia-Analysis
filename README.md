@@ -57,7 +57,7 @@ social-media-analysis/
 ![Dashboard](screenshots/dashboard.png)
 
 ## 🌐 Live Dashboard
-[View Dashboard](dashboard/dashboard.html)
+👉 https://gauravkashyap-lab.github.io/SocialMedia-Analysis/
 ---
 
 ## 🔍 Key Insights
