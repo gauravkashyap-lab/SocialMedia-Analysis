@@ -56,6 +56,8 @@ social-media-analysis/
 
 ![Dashboard](screenshots/dashboard.png)
 
+## 🌐 Live Dashboard
+[View Dashboard](dashboard/dashboard.html)
 ---
 
 ## 🔍 Key Insights
