@@ -116,6 +116,6 @@ This analysis helps:
 
 **Kumar Gaurav**
 
-* GitHub: (add link)
+* GitHub: (https://github.com/gauravkashyap-lab/SocialMedia-Analysis)
 * LinkedIn: (https://www.linkedin.com/in/kumar-gaurav62/)
 
